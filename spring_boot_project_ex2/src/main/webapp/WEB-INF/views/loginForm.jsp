@@ -49,6 +49,7 @@
 		                <td align="center" id="button"> <br>
 		                    <input type="submit" id="login_btn"value="로그인">
 		                    <input type="reset" value="취소">
+		                    <!-- test1 -->
 		                </td>
 		            </tr>             
 		            </table>
